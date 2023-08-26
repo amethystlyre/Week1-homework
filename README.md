@@ -12,7 +12,7 @@ A webpage that has been refactored to make it more accessible.
 
 ### Installation
 
-* Open url link in browser
+* Open url link https://amethystlyre.github.io/Week1-homework/ in above mention browser
 
 ## Credits
 
