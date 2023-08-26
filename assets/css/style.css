@@ -15,7 +15,7 @@ p {
     font-size: 1em;
 }
 
-/* Seteader title styles */
+/* Set header title styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -121,8 +121,7 @@ and apply bgcolor and text font*/
 
 /*Set the text color and spacing for individual sections 
 inside the right hand side coloumn*/
-
-.benefits section{
+.benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -139,7 +138,6 @@ inside the right hand side coloumn*/
 }
 
 /*Set footer styles*/
-
 .footer {
     padding: 30px;
     clear: both;
