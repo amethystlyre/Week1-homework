@@ -6,11 +6,11 @@ A single HTML index page with semantic elements with a linked CSS file.
 
 A webpage that has been refactored to make it more accessible.
 
-### Dependencies
+## Dependencies
 
 * Browser such as Google Chrome, Firefox or Edge etc.
 
-### Installation
+## Installation
 
 * Open url link https://amethystlyre.github.io/Week1-homework/ in above mention browser
 
